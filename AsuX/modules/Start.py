@@ -15,7 +15,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 url=f"http://t.me/{context.bot.username}?startgroup=true"),
             InlineKeyboardButton(
                 text="𝐃ᴀʀʟɪɴɢ",
-                url=f"https://t.me/Idhayann"),
+                url=f"https://t.me/Owner_of_td_network"),
         ]
     
     )
@@ -36,7 +36,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 url=f"http://t.me/{context.bot.username}?startgroup=true"),
             InlineKeyboardButton(
                 text="𝐃ᴀʀʟɪɴɢ",
-                url=f"https://t.me/Idhayann"),
+                url=f"https://t.me/Owner_of_td_network"),
         ]
     )
     await msg.reply_text(
