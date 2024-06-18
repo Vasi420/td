@@ -4,3 +4,13 @@ pymongo[src]
 dnspython
 python-telegram-bot==20.0
 psutil
+telethon
+cryptg
+asyncio
+pyrogram
+Abg==2.3.1
+pyrogram==2.0.106
+pymongo
+tgcrypto==1.2.2
+asyncio
+python-dotenv
